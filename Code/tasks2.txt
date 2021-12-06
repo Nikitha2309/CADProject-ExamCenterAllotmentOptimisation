@@ -1,0 +1,2 @@
+dset = s rng = a1 rdim =1
+par = citywise_preference_table rng= Sheet1!a1 rdim=1 cdim = 1

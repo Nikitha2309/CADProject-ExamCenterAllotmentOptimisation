@@ -1,0 +1,66 @@
+B 3 C o m p i l a t i o n
+B 189 Include File Summary
+B 210 Equation Listing    SOLVE exam_center_allotment Using MIP From line 199
+D 213 constraint_1
+D 224 constraint_2
+D 235 constraint_3_1
+D 246 constraint_3_2
+D 257 constraint_3_3
+D 268 constraint_4_1
+D 279 constraint_4_2
+D 290 constraint_4_3
+D 301 constraint_5_1
+D 312 constraint_5_2
+D 323 constraint_5_3
+D 334 constraint_6_1
+D 345 constraint_6_2
+D 356 constraint_6_3
+D 367 constraint_7_1
+D 378 constraint_7_2
+D 389 constraint_7_3
+D 394 objective_function
+B 400 Column Listing      SOLVE exam_center_allotment Using MIP From line 199
+E 403 student_vs_allotted_center
+E 497 student_vs_allotted_city
+E 606 is_center_in_use
+E 628 should_be_vacant
+E 680 student_vs_allotted_city_center
+E 702 number_of_centers_in_use
+E 710 Objective_value
+E 717 preference_city_allotted
+E 856 rating_center_allotted
+B 1058 Model Statistics    SOLVE exam_center_allotment Using MIP From line 199
+B 1071 Solution Report     SOLVE exam_center_allotment Using MIP From line 199
+F 1115 constraint_1
+F 1128 constraint_2
+F 1139 constraint_3_1
+F 1180 constraint_3_2
+F 1221 constraint_3_3
+F 1232 constraint_4_1
+F 1429 constraint_4_2
+F 1626 constraint_4_3
+F 1663 constraint_5_1
+F 1700 constraint_5_2
+F 1737 constraint_5_3
+F 1998 constraint_6_1
+F 2051 constraint_6_2
+F 2104 constraint_6_3
+F 2365 constraint_7_1
+F 2376 constraint_7_2
+F 2389 constraint_7_3
+F 2390 objective_function
+G 2392 student_vs_allotted_center
+G 2445 student_vs_allotted_city
+G 2482 is_center_in_use
+G 2493 should_be_vacant
+G 2504 student_vs_allotted_city_center
+G 2703 number_of_centers_in_use
+G 2704 Objective_value
+G 2708 preference_city_allotted
+G 2721 rating_center_allotted
+B 2741 E x e c u t i o n
+I 2741 student_vs_allotted_center
+I 2756 student_vs_allotted_city
+I 2770 preference_city_allotted
+I 2775 rating_center_allotted
+I 2781 number_of_centers_in_use
